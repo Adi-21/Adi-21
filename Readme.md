@@ -131,6 +131,6 @@
 <div align="center">
   <h3>🤝 Connect with me</h3>
   <a href="https://linkedin.com/in/adis21104" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adis21104" /></a>
-  <a href="https://instagram.com/adis.singh" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adis.singh" /></a>
+  <a href="https://instagram.com/adis.singh" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="basyaaradi" /></a>
   <a href="https://twitter.com/adis21104" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adis21104" /></a>
 </div>
