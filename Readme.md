@@ -1,16 +1,16 @@
-<!-- TITLE AND BANNER -->
+<!-- HEADER SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aditya%20Kumar%20Singh&fontSize=80&fontAlign=50&animation=twinkling&fontColor=ffffff&desc=Building%20AGI%20%7C%20Full%20Stack%20Engineer%20%7C%20Innovator&descAlign=50&descSize=20" alt="header" />
 </div>
 
-<!-- DYNAMIC TYPING TEXT -->
+<!-- DYNAMIC TYPING TEXT (Fixed Link) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Everything+with+AI+🤖;Mastering+Deep+Learning+🧠;Solving+Real+World+Problems+🌍;Founder+of+Basyaaradi.in+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Everything+with+AI+🤖;Mastering+Deep+Learning+🧠;Solving+Real+World+Problems+🌍;Founder+of+Basyaaradi.in+🚀" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- SOCIALS AND VIEWS -->
+<!-- SOCIALS -->
 <p align="center">
   <a href="https://github.com/adi-21">
     <img src="https://komarev.com/ghpvc/?username=Adi-21&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Adi-21" />
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<!-- MAIN DASHBOARD -->
+<!-- DASHBOARD (Fixed Alignment) -->
 <div align="center">
 <table>
   <tr>
@@ -34,21 +34,21 @@
       <h3>👨‍💻 About Me</h3>
       <p>
         🔭 Working on: <b>Everything with AI</b><br>
-        🌱 Learning: <b>MeTTa, Deep Learning & System Arch.</b><br>
+        🌱 Learning: <b>Deep Learning & System Arch.</b><br>
         🧠 Goal: <b>Building AGI</b><br>
         ⚡ Fact: <b>"Solving real problems at <a href="https://basyaaradi.in">basyaaradi.in</a>"</b>
       </p>
       <h3>🛠 Tech Stack</h3>
-      <!-- Added Python, PyTorch for AI focus -->
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,js,ts,react,nextjs,nodejs,express&perline=5" />
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,js,ts,react,nextjs&perline=4" />
         <br>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,git,docker,postman,figma,unity,tailwind&perline=5" />
-      </p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,gcp,docker,git&perline=4" />
+      </div>
     </td>
     <td valign="top" width="50%">
       <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adi-21&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
+      <!-- Removed private count to fix loading error -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Adi-21&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" />
       <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-21&theme=radical&hide_border=true&bg_color=00000000" width="100%" />
     </td>
@@ -56,7 +56,7 @@
 </table>
 </div>
 
-<!-- LANGUAGES AND TROPHIES SECTION -->
+<!-- LANGUAGES AND QUOTE -->
 <div align="center">
   <table>
     <tr>
@@ -64,7 +64,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi-21&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" width="100%" />
       </td>
       <td width="40%">
-         <!-- Random Dev Quote for cool factor -->
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
       </td>
     </tr>
@@ -79,7 +78,7 @@
   </a>
 </div>
 
-<!-- SNAKE ANIMATION (Must have Workflow enabled) -->
+<!-- SNAKE ANIMATION (Will work after workflow runs) -->
 <h3 align="center">🧩 Contribution Graph</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adi-21/Adi-21/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
