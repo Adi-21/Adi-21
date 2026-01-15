@@ -77,12 +77,12 @@
 </div>
 
 <!-- TROPHIES -->
-<h3 align="center">🏆 Achievements</h3>
+<!-- <h3 align="center">🏆 Achievements</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Adi-21&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
   </a>
-</div>
+</div> -->
 
 <!-- SNAKE ANIMATION (FIXED: Now points to the DARK version) -->
 <h3 align="center">🧩 Contribution Graph</h3>
