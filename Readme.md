@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;React+%26+Next.js+Enthusiast;Always+Learning+🌱" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,14 +20,14 @@
 </p>
 
 <p align="center">
- 🔭 I’m currently working on <b>Everything with AI</b> <br/>
- 🌱 I’m currently understanding <b>Deep Learning & System Architecture</b> <br/>
- 🚀 I'm learning <b>MeTTa & Python for building AGI<b> <br/>
- ⚡  Fun fact <b>"Solving real world problems with AI and providing solutions on basyaaradi.in "</b> <br/>
- 📫 Contact me at <b>support@basyaaradi.in</b>
+ I’m currently working on <b>Everything with AI</b> <br/>
+ I’m currently understanding <b>Deep Learning & System Architecture</b> <br/>
+ I'm learning <b>MeTTa & Python for building AGI<b> <br/>
+ Fun fact <b>"Solving real world problems with AI and providing solutions on basyaaradi.in "</b> <br/>
+ Contact me at <b>support@basyaaradi.in</b>
 </p>
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <table>
@@ -102,7 +102,7 @@
   </table>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adi-21&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
@@ -115,14 +115,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-21&theme=radical&hide_border=true&bg_color=00000000" alt="streak stats"/>
 </div>
 
-<h2 align="center">🏆 Trophies</h2>
+<h2 align="center">Trophies</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Adi-21&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
   </a>
 </div>
 
-<h2 align="center">🐍 Contributions</h2>
+<h2 align="center">Contributions</h2>
 <div align="center">
   <img src="https://github.com/Adi-21/Adi-21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
