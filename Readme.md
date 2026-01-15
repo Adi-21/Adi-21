@@ -65,11 +65,11 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="40%">
         <!-- FIXED: Added 'disable_animations' to fix broken loading -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi-21&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6&disable_animations=true" width="100%" />
       </td>
-      <td width="40%">
+      <td width="60%">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
       </td>
     </tr>
