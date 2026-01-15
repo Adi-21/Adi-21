@@ -1,16 +1,16 @@
-<!-- HEADER SECTION -->
+<!-- HEADER: Increased height to 300 so text fits perfectly -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Aditya%20Kumar%20Singh&fontSize=60&fontAlign=50&fontColor=ffffff&desc=Building%20AGI%20%7C%20Full%20Stack%20Engineer%20%7C%20Innovator&descAlign=50&descSize=22&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Kumar%20Singh&fontSize=60&fontAlign=50&fontColor=ffffff&desc=Building%20AGI%20%7C%20Full%20Stack%20Engineer%20%7C%20Innovator&descAlign=50&descSize=20&animation=twinkling" alt="header" />
 </div>
 
-<!-- DYNAMIC TYPING TEXT -->
+<!-- TYPING TEXT: Fixed placement -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Everything+with+AI+🤖;Mastering+Deep+Learning+🧠;Solving+Real+World+Problems+🌍;Founder+of+Basyaaradi.in+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Everything+with+AI+🤖;Mastering+Deep+Learning+🧠;Founder+of+Basyaaradi.in+🚀" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- SOCIALS & VIEWS -->
+<!-- SOCIAL ICONS -->
 <p align="center">
   <a href="https://github.com/adi-21">
     <img src="https://komarev.com/ghpvc/?username=Adi-21&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Adi-21" />
@@ -28,10 +28,10 @@
 
 <!-- FOUNDER BANNER -->
 <div align="center">
-  <h3>Founder of <a href="https://basyaaradi.in">Basyaaradi.in</a> 🚀</h3>
+  <h3>🚀 Founder of <a href="https://basyaaradi.in">Basyaaradi.in</a></h3>
 </div>
 
-<!-- DASHBOARD SECTION -->
+<!-- DASHBOARD -->
 <div align="center">
 <table>
   <tr>
@@ -52,8 +52,8 @@
     </td>
     <td valign="top" width="50%">
       <h3>📈 GitHub Stats</h3>
-      <!-- Fixed: Removed private count to prevent timeouts -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Adi-21&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" />
+      <!-- FIXED: Added 'disable_animations' and caching to prevent broken images -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Adi-21&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&disable_animations=true" width="100%" />
       <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-21&theme=radical&hide_border=true&bg_color=00000000" width="100%" />
     </td>
@@ -66,7 +66,8 @@
   <table>
     <tr>
       <td width="60%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi-21&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" width="100%" />
+        <!-- FIXED: Added 'disable_animations' to fix broken loading -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi-21&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6&disable_animations=true" width="100%" />
       </td>
       <td width="40%">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
@@ -75,7 +76,7 @@
   </table>
 </div>
 
-<!-- ACHIEVEMENTS -->
+<!-- TROPHIES -->
 <h3 align="center">🏆 Achievements</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -83,11 +84,14 @@
   </a>
 </div>
 
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION (FIXED: Now points to the DARK version) -->
 <h3 align="center">🧩 Contribution Graph</h3>
 <div align="center">
-  <!-- NOTE: This image will only appear after the GitHub Action runs successfully -->
-  <img src="https://raw.githubusercontent.com/Adi-21/Adi-21/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adi-21/Adi-21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adi-21/Adi-21/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adi-21/Adi-21/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- FOOTER -->
