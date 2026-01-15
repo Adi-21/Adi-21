@@ -20,10 +20,11 @@
 </p>
 
 <p align="center">
- 🔭 I’m currently working on <b>Full Stack Development</b> <br/>
- 🌱 I’m currently learning <b>TypeScript & System Design</b> <br/>
- ⚡ Fun fact <b>"I turn coffee into code"</b> <br/>
- 📫 Contact me at <b>adis21104@gmail.com</b>
+ 🔭 I’m currently working on <b>Everything with AI</b> <br/>
+ 🌱 I’m currently understanding <b>Deep Learning & System Architecture</b> <br/>
+ 🚀 I'm learning <b>MeTTa & Python for building AGI<b> <br/>
+ ⚡  Fun fact <b>"Solving real world problems with AI and providing solutions on basyaaradi.in "</b> <br/>
+ 📫 Contact me at <b>support@basyaaradi.in</b>
 </p>
 
 <h2 align="center">🚀 Tech Stack</h2>
