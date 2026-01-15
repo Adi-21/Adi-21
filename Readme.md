@@ -1,6 +1,6 @@
 <!-- HEADER: Increased height to 300 so text fits perfectly -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Kumar%20Singh&fontSize=60&fontAlign=50&fontColor=ffffff&desc=Building%20AGI%20%7C%20Full%20Stack%20Engineer%20%7C%20Innovator&descAlign=50&descSize=20&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Kumar%20Singh&fontSize=50&fontAlign=50&fontColor=ffffff&desc=Building%20AGI%20%7C%20Full%20Stack%20Engineer%20%7C%20Innovator&descAlign=50&descSize=20&animation=twinkling" alt="header" />
 </div>
 
 <!-- TYPING TEXT: Fixed placement -->
