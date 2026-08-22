@@ -28,7 +28,7 @@
 
 <!-- FOUNDER BANNER -->
 <div align="center">
-  <h3>🚀 Founder of <a href="https://basyaaradi.in">Basyaaradi.in</a></h3>
+  <h3>🚀 Swaggy Silly Boy <a href="https://basyaaradi.in">permissionaless.in</a></h3>
 </div>
 
 <!-- DASHBOARD -->
