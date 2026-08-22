@@ -41,7 +41,7 @@
         🔭 Working on: <b>Everything with AI</b><br>
         🌱 Learning: <b>Deep Learning & System Arch.</b><br>
         🧠 Goal: <b>Building AGI</b><br>
-        ⚡ Fact: <b>"Solving real problems at <a href="https://basyaaradi.in">basyaaradi.in</a>"</b>
+        ⚡ Fact: <b>"Solving real problems at <a href="https://permissionless.in">permissionless.in</a>"</b>
       </p>
       <h3>🛠 Tech Stack</h3>
       <div align="center">
